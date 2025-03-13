@@ -13,8 +13,7 @@ function addsubject() {
                 <option value="8">A</option>
                 <option value="7">B+</option>
                 <option value="6">B</option>
-                <option value="5">C+</option>
-                <option value="4">C</option>
+                <option value="5">C</option>
                 <option value="0">U</option>
             </select>
         </td>
