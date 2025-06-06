@@ -64,3 +64,24 @@ SGPA-CGPA-Calculator/
    ```bash
    git clone https://github.com/Vigneshwaran-tech/SGPA-CGPA-Calculator.git
 
+Open index.html in your browser.
+
+Start calculating! 🎉
+
+📌 Future Improvements
+Save and track semester-wise data
+
+Dark mode toggle
+
+Export to PDF or Excel
+
+GPA scale customization (4.0, 10.0, etc.)
+
+🙌 Contributing
+Pull requests are welcome. If you have suggestions or improvements, feel free to fork the repo and submit a PR.
+
+📧 Contact
+Built by Vigneshwaran
+Reach out via LinkedIn or open an issue!
+
+⭐ Don't forget to star the repo if you found it useful!
