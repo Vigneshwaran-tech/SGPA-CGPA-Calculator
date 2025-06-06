@@ -29,7 +29,7 @@ I noticed that many students struggle with calculating their SGPA and CGPA manua
 
 ## 📸 Demo
 
-![App Screenshot](https://via.placeholder.com/800x400?text=SGPA+CGPA+Calculator+Demo)
+![App Screenshot](https://vigneshwaran-tech.github.io/SGPA-CGPA-Calculator/)
 
 ---
 
@@ -50,4 +50,8 @@ CGPA = \frac{\sum SGPA \times Semester Credits}{\sum Semester Credits}
 ---
 
 ## 📂 Folder Structure
-
+SGPA-CGPA-Calculator/
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- └── README.md
