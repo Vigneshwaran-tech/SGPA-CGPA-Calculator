@@ -55,3 +55,12 @@ SGPA-CGPA-Calculator/
 - ├── style.css
 - ├── script.js
 - └── README.md
+  
+---
+
+## ✨ How to Use
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/Vigneshwaran-tech/SGPA-CGPA-Calculator.git
+
