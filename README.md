@@ -79,7 +79,8 @@ SGPA-CGPA-Calculator/
 Pull requests are welcome. If you have suggestions or improvements, feel free to fork the repo and submit a PR.
 
 📧 Contact
-Built by Vigneshwaran
-Reach out via ![LinkedIn]_(www.linkedin.com/in/vigneshwaran0) or open an issue!
+- Built by Vigneshwaran G K
+- Reach out via: 
+**LinkedIn** (www.linkedin.com/in/vigneshwaran0) or open an issue!
 
 ⭐ Don't forget to star the repo if you found it useful!
